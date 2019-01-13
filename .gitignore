@@ -1,2 +1,5 @@
 data/
 ignore/
+**/*.jpg
+**/__pycache__/
+**/*.pyc
